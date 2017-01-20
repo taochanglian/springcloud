@@ -85,6 +85,13 @@
             <artifactId>spring-cloud-starter-hystrix</artifactId>
         </dependency>
         <!--End spring cloud Hystrix -->
+        <!--Start spring cloud zuul -->
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-zuul</artifactId>
+        </dependency>
+
+        <!--ENd spring cloud zuul ->
 
     </dependencies>
 
